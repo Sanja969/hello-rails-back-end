@@ -1,6 +1,6 @@
 # Hello world - back-end
 
-- API endpoint that selects a random greeting from your table which I created in posgreSQL [hello-rails-back-end](https://github.com/Sanja969/hello-rails-back-end) repo
+- API endpoint that selects a random greeting from your table which I created in posgreSQL [hello-react-front-end](https://github.com/Sanja969/hello-react-front-end) repo
 
 
 ## Built With
